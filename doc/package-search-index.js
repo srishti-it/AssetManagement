@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.project.assetmanageapp"},{"l":"com.project.assetmanageapp.constant"},{"l":"com.project.assetmanageapp.controller"},{"l":"com.project.assetmanageapp.dao"},{"l":"com.project.assetmanageapp.entities"},{"l":"com.project.assetmanageapp.services"}];updateSearchResults();

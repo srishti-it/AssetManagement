@@ -1,0 +1,6 @@
+com.project.assetmanageapp
+com.project.assetmanageapp.constant
+com.project.assetmanageapp.controller
+com.project.assetmanageapp.dao
+com.project.assetmanageapp.entities
+com.project.assetmanageapp.services
